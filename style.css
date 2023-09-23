@@ -1,0 +1,42 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#herosection{
+    background-image: url("https://images.unsplash.com/photo-1689656966481-043a970b7c76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+    background-position: center;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#herosection>h1{
+    font-size: 60px;
+    padding-top:120px;
+    text-shadow: 0px 0px 10px black;
+
+}
+#herosection>h3{
+    font-size:25px;
+    font-weight: 100;
+    line-height: 40px;
+
+}
+#herosection>button{
+    background-color: orangered;
+    color:white;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 120px;
+
+}
+#herosection>button:hover{
+    background-color: red;
+}
